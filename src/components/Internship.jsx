@@ -4,8 +4,8 @@ const Internship = () => {
   return (
     <>
       <div id="internship">
-        <div className=" mt-24 flex flex-col text-yellow-500 text-center mx-28">
-          <h1 className=" font-semibold text-5xl">INTERNSHIPS</h1>
+        <div className=" mt-24 flex flex-col text-white text-center mx-28">
+          <h1 className=" font-semibold text-5xl text-gray-400">INTERNSHIPS</h1>
 
           <div className="Card-Intern text-xl mt-8">
             <div className="logo size-40 flex justify-center w-full">

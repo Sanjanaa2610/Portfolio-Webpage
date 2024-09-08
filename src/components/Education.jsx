@@ -4,11 +4,11 @@ const Education = () => {
   return (
     <>
       <div id="education">
-        <div className=" mt-24 flex flex-col text-yellow-500 text-center mx-28 md-4">
-          <h1 className=" font-semibold text-5xl">EDUCATION</h1>
+        <div className=" mt-24 flex flex-col text-white text-center mx-28 md-4">
+          <h1 className=" font-semibold text-5xl text-gray-400">EDUCATION</h1>
         </div>
 
-        <table className=" text-yellow-500 text-center mx-28 mt-8">
+        <table className=" text-white text-center mx-28 mt-8">
           <tr className="mb-4">
             <td className=" font-bold text-xl py-8">
               Master of Business Administration (MBA) - Finance & Business
