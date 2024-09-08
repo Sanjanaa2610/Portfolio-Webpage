@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: "Ubuntu", sans-serif;
+    box-sizing: border-box;
+    background-color: #001d3d;
+}
+
+/* text - #ffc300 and more text - #ffd60a */
