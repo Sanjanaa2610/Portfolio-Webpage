@@ -11,7 +11,7 @@ const Navbar = () => {
         </li>
         <li>
           <a href="#offerings" className="text-white hover:underline">
-            Offerings
+            Skills
           </a>
         </li>
         <li>

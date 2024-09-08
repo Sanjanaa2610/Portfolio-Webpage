@@ -12,7 +12,7 @@ const MainIntro = () => {
 
           <div className="img flex">
             <img
-              className=" rounded-full border-black border-4 hover:border-red-700"
+              className=" rounded-full border-black border-4 hover:border-blue-800"
               src="/favicon.jpg"
               alt="Sanjana's Image"
               width={300}

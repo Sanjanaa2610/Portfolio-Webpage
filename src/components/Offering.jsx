@@ -5,7 +5,7 @@ const Offering = () => {
     <>
       <div id="offerings">
         <div className=" mt-24 flex flex-col text-white mx-28">
-          <h1 className="text-center text-gray-400 font-semibold text-5xl">WHAT I OFFER</h1>
+          <h1 className="text-center text-gray-400 font-semibold text-5xl">MY SKILLS</h1>
 
           <ul className="mt-8 text-xl list-disc p-4">
             <li className="p-2">
