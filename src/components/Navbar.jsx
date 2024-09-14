@@ -38,6 +38,11 @@ const Navbar = () => {
             Linkedin
           </a>
         </li>
+        <li>
+          <a href="/Sanjana-Singh.pdf" className="text-white hover:underline">
+            CV
+          </a>
+        </li>
       </ul>
     </nav>
   );
